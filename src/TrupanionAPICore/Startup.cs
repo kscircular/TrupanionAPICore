@@ -44,7 +44,7 @@ namespace TrupanionAPICore
             services.AddMvc();
 
             //register the repo using DI
-            services.AddSingleton<IPolicy, TrupanionRepository>();
+            services.AddSingleton<IPolicy, PolicyRepository>();
 
             //register EF Core DI
             services.AddDbContext<TrupanionContext>(options =>

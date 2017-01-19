@@ -12,7 +12,6 @@ namespace TrupanionAPICore.Controllers
     [Route("api/[controller]")]
     public class PolicyController : Controller
     {
-
         public IPolicy Repo { get; set; }
 
         public PolicyController(IPolicy repo)

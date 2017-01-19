@@ -201,8 +201,11 @@
 -resource:"D:\TrupanionAPICore\src\TrupanionAPICore\obj\Debug\netcoreapp1.0\TrupanionAPICoredotnet-compile.deps.json",TrupanionAPICore.deps.json
 "D:\TrupanionAPICore\src\TrupanionAPICore\Program.cs"
 "D:\TrupanionAPICore\src\TrupanionAPICore\Startup.cs"
+"D:\TrupanionAPICore\src\TrupanionAPICore\Controllers\PetController.cs"
 "D:\TrupanionAPICore\src\TrupanionAPICore\Controllers\PolicyController.cs"
 "D:\TrupanionAPICore\src\TrupanionAPICore\Data\TrupanionContext.cs"
 "D:\TrupanionAPICore\src\TrupanionAPICore\Models\Breed.cs"
+"D:\TrupanionAPICore\src\TrupanionAPICore\Models\IPet.cs"
 "D:\TrupanionAPICore\src\TrupanionAPICore\Models\IPolicy.cs"
-"D:\TrupanionAPICore\src\TrupanionAPICore\Repository\TrupanionRepository.cs"
+"D:\TrupanionAPICore\src\TrupanionAPICore\Repository\PetRepository.cs"
+"D:\TrupanionAPICore\src\TrupanionAPICore\Repository\PolicyRepository.cs"
